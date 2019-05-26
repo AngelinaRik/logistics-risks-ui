@@ -24,3 +24,4 @@ export const getId = ({ id }) => id;
 export const getName = ({ name }) => name;
 
 export const getFoundationDate = ({ foundationDate }) => foundationDate;
+ 
